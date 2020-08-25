@@ -1,11 +1,11 @@
 I'm didinele. I prefer "DD", or maybe "didi", though. I live in Romania, Bucharest.
 
 I've been around Discord for a couple of years now. I mod here and there
-and contribute to a-certain-modbot™️. Basically, I got into the whole dev
+and contribute to a-certain-modbot™️ (maybe peep my orgs). Basically, I got into the whole dev
 thing via Discord's API. I am now a total nerd, and I have moved on a bit,
 currently messing with interesting app infrastructures, micro-services and containerization.
 
-I hang out mmainly on [Discord] (didinele#0001, id: `223703707118731264`) and I'm a [Reddit] lurker. Oh, and also, I have a [Keybase] account!
+I hang out mainly on [Discord] (didinele#0001, id: `223703707118731264`) and I'm a [Reddit] lurker. Oh, and also, I have a [Keybase] account!
 
 <table>
   <tr>
