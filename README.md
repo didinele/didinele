@@ -1,11 +1,15 @@
-I'm didinele. I prefer "DD", or maybe "didi", though. I live in Romania, Bucharest.
+I'm didinele, a hobbyist in software development & content moderation. I prefer "DD", or maybe "didi", though. I live in Romania, Bucharest.
+I enjoy japanese culture and love video games.
 
-I've been around Discord for a couple of years now. I mod here and there
-and contribute to a-certain-modbot™️ (maybe peep my orgs). Basically, I got into the whole dev
-thing via Discord's API. I am now a total nerd, and I have moved on a bit,
-currently messing with interesting app infrastructures, micro-services and containerization.
+Currently messing about with
+- interesting app infrastructures with [Docker]
+- [TypeScript]
+- [Nginx]
 
-I hang out mainly on [Discord] (didinele#0001, id: `223703707118731264`) and I'm a [Reddit] lurker. Oh, and also, I have a [Keybase] account!
+My stuff
+- [Discord] (didinele#0001, id: `223703707118731264`)
+- [Reddit]
+- [Keybase]
 
 <table>
   <tr>
@@ -18,7 +22,9 @@ I hang out mainly on [Discord] (didinele#0001, id: `223703707118731264`) and I'm
   </tr>
 </table>
 
-[Discord]:               https://discord.com
-[Reddit]:                https://reddit.com/u/didinele
-[Keybase]:               https://keybase.io/didinele
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[Discord]:      https://discord.com
+[Reddit]:       https://reddit.com/u/didinele
+[Keybase]:      https://keybase.io/didinele
+[Docker]:       https://www.docker.com
+[TypeScript]:   https://www.typescriptlang.org
+[Nginx]:        https://www.nginx.com
