@@ -14,10 +14,10 @@
 
 - Have formerly made contributions to both the engineering and community/support side at the [Gaius] [Discord] bot.
 
-## Reach me
+# Reach me
 - Feel free to DM me on [Discord] (`didinele#0001`, id: `223703707118731264`).
+  
 
-___
 # Stats
 
 <table>
