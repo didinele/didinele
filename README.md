@@ -1,22 +1,15 @@
 # Hiya, I'm DD. <img src="https://komarev.com/ghpvc/?username=didinele" alt="" />
 
-- Backend developer and fast learner.
-
-- [TS]/JS proficient.
-
-- Building over-engineered, micro-serviced applications for scale.
-
-- Familiar with [PostgreSQL], [Redis], [NGINX], the [ELK] stack and much more.
-
-- On the side, I'm a hobbyist community moderator for various spaces.
-
-- Trying to get more into OSS! I maintain my own Discord API wrapper, [Cordis] and I'm also building tools aimed at helping [Discord] communities at [ChatSift] as the lead engineer.
-
-- Have formerly made contributions to both the engineering and community/support side at the [Gaius] [Discord] bot.
+- Self-taught backend developer focused on micro-serviced applications built for scale
+- [TypeScript]/[Node.JS] proficient
+- Familiar with [Docker], [PostgreSQL], [Redis], [Caddy], [NGINX], the [ELK] stack, and more
+- Currently leading development at [ChatSift], building chat utility products for Discord communities
+- On the side, I'm a [Discord Certified Moderator], volunteering for various communities
+- Have formerly made contributions to both the development and community/support side at the [Gaius] Discord bot
 
 # Reach me
-- Feel free to DM me on [Discord] (`DD#0003`, id: `223703707118731264`).
-  
+- Feel free to DM me on [Discord] (`DD#0003`, id: `223703707118731264`)
+- If you prefer end-to-end encrypted communication, I'm also available on [Keybase]
 
 # Stats
 
@@ -31,13 +24,16 @@
   </tr>
 </table>
 
-[Discord]:      https://discord.com
-[Docker]:       https://www.docker.com
-[TS]:           https://www.typescriptlang.org
-[PostgreSQL]:   https://www.postgresql.org
-[NGINX]:        https://www.nginx.com
-[Redis]:        https://redis.io
-[ELK]:          https://www.elastic.co/elastic-stack
-[Cordis]:       https://github.com/cordis-lib/cordis
-[ChatSift]:     https://github.com/ChatSift
-[Gaius]:        https://gaiusbot.me
+[Discord]:                      https://discord.com
+[Discord Certified Moderator]:  https://dis.gd/modbadge
+[Docker]:                       https://www.docker.com
+[TypeScript]:                   https://www.typescriptlang.org
+[Node.JS]:                      https://nodejs.org
+[PostgreSQL]:                   https://www.postgresql.org
+[Caddy]:                        https://caddyserver.com
+[NGINX]:                        https://www.nginx.com
+[Redis]:                        https://redis.io
+[ELK]:                          https://www.elastic.co/elastic-stack
+[ChatSift]:                     https://github.com/ChatSift
+[Gaius]:                        https://gaiusbot.me
+[Keybase]:                      https://keybase.io/didinele
