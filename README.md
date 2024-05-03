@@ -1,11 +1,11 @@
-# Hiya, I'm DD. <img src="https://komarev.com/ghpvc/?username=didinele" alt="" />
+# I'm DD. <img src="https://komarev.com/ghpvc/?username=didinele" alt="" />
 
 - Self-taught developer, mostly familiar with backend work
 - [TypeScript]/[Node.JS] proficient
 - Familiar with [Docker], [PostgreSQL], [Redis], [Caddy], [NGINX], and more
-- Dabbling heavily with micro-serviced application arhitecture, parsers/compilers, and Rust (sometimes)
-- Specialize in building anti-spam and/or moderation tools for online communities
-- I maintain [discord.js], especially `/ws`
+- Dabbling with micro-serviced applications, parsers, and Rust (sometimes)
+- Experienced in building anti-spam and/or moderation tools for online communities
+- I maintain key parts of [discord.js]
 
 # Reach me
 - Feel free to DM me on [Discord] (`didinele`, id: `223703707118731264`)
